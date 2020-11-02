@@ -1,0 +1,48 @@
+/* Havoc Contact Us Css */
+.havoc-contact-us {
+  padding: 150px 0;
+}
+.havoc-contact-us .masonry-filters {
+  padding-left: 0;
+  max-width: 100%;
+}
+.havoc-gray-box {
+  float: left;
+  width: 100%;
+  background: rgba(247, 247, 247, 1.0);
+  padding: 80px;
+}
+.havoc-gray-box .havoc-info-block:last-child {
+  border-bottom: none;
+}
+.havoc-contact-us .masonry-item {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding-right: 0; 
+  padding-left: 0; 
+  margin-bottom: 0; 
+  width: 100%;
+}
+.havoc-info-block {
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 1.0);
+}
+.havoc-info-block label {
+  display: block;
+  clear: both;
+  font-size: 10px;
+  line-height: 17px;
+  color: rgba(123, 123, 123, 1.0);
+}
+.havoc-info-block span, .havoc-info-block a {
+  font-size: 22px;
+  line-height: 40px;
+  color: #000000;
+}
+.map-canvas {
+  float: left;
+  width: 100%;
+  height: 550px;
+}
